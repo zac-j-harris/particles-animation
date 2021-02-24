@@ -2,4 +2,5 @@
 
 Forked from: https://github.com/nikitindiz/particles-animation
 
-Preview at: [htmlpreview](https://htmlpreview.github.io/?https://github.com/zac-j-harris/particles-animation/blob/master/src/index.html)
+Preview at: [htmlpreview](https://codepen.io/zac-j-harris/full/ZEBOjMB)
+-- (https://htmlpreview.github.io/?https://github.com/zac-j-harris/particles-animation/blob/master/src/index.html)
