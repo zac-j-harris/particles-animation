@@ -1,3 +1,4 @@
 # Simple Particles Animation
 
-Original URL: https://github.com/nikitindiz/particles-animation
+Forked from: https://github.com/nikitindiz/particles-animation
+
